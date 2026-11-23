@@ -1,2 +1,32 @@
-**/.env
-.ipynb_checkpoints
+
+# Jupyter Notebook checkpoints
+
+.ipynb_checkpoints/
+
+# Python cache files
+
+**pycache**/
+*.py[cod]
+
+# Virtual environments
+
+venv/
+.venv/
+env/
+
+# Environment variables and secrets
+
+.env
+.env.*
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# IDE settings
+
+.vscode/
+.idea/
+
+
